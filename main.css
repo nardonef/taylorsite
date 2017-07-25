@@ -58,5 +58,10 @@ html{
 }
 
 #video{
-    margin-top: 50px;   
+    margin-top: 50px;
+    border:1px solid black;
+}
+
+#maincon{
+    border:1px solid black;   
 }

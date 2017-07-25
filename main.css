@@ -51,7 +51,11 @@ ul.posts li {
     background-color:#ffff99 !important;
 }
 
-body
-{
-background: #74E7EC !important; 
+body{
+    background: #74E7EC !important; 
+    height: 100%
+}
+
+html{
+    height: 100%
 }

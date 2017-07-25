@@ -39,6 +39,10 @@ ul.posts li {
     list-style: none;
 }
 
-.jumbtext{
+#jumbtext1{
     margin-left:10%;
+}
+
+#jumbtext2{
+    margin-left:12%;
 }
